@@ -25,3 +25,10 @@ print(emirps)
 
 #This problem asks the shortest code for this.so upto now I got the following lin eof code as the shortest code using RUBY.
 # require'prime';Prime.each(999){|n|r=n.to_s.reverse.to_i;puts n if n!=r&&r.prime?}
+
+
+import sys
+input = sys.stdin.readline
+n = int(input())
+words = input().strip().split()
+target = input().strip()
