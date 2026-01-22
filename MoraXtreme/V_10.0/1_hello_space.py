@@ -1,0 +1,1 @@
+print("Hello, Aliens! Welcome to MoraXtreme 10.0")
